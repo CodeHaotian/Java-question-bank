@@ -1,2 +1,5 @@
-＃Java-question-ban
-- Hcsp题库练习存档
+##### Hcsp 题库练习存档
+
+---
+- 此仓库仅作为个人 Java 代码存档
+---
